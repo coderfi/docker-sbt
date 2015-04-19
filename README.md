@@ -13,7 +13,7 @@ This docker image contains the following software stack:
 
 - OS: busybox
 
-- Java: Oracle JDK 1.8.0
+- Java: Oracle JDK 1.8.0_40
 
 - Scala: 2.11.6
 
