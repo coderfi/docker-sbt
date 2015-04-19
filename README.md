@@ -1,4 +1,4 @@
-Docker-Sbt
+docker-sbt
 ==========
 
 ## Summary
@@ -33,19 +33,19 @@ This docker image contains the following software stack:
 Latest version:
 
    ```
-   $ docker pull coderfi/scala:latest
+   $ docker pull coderfi/sbt:latest
    ```
 
 All versions:
 
    ```
-   $ docker pull coderfi/scala
+   $ docker pull coderfi/sbt
    ```
 
 Specific version:
 
    ```
-   $ docker pull coderfi/scala:2.11.6
+   $ docker pull coderfi/sbt:2.11.6
    ```
 
 ## Usage
